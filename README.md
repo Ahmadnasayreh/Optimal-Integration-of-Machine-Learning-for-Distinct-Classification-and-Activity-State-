@@ -1,0 +1,4 @@
+Model Development and Evaluation: Developed and evaluated machine learning algorithms (KNN, SVM, Random Forest, Gradient Boosting) using features from pre-trained CNN models (VGG16, VGG19, InceptionV3) for classifying multiple sclerosis (MS) and neuromyelitis optica (NMO) and determining MS activity states.
+Hybrid Model Performance: Achieved 99% accuracy with VGG16 + KNN for MS and NMO classification and 98% accuracy with VGG16 + SVM for distinguishing active and inactive MS states.
+Comprehensive Data Processing: Implemented rigorous data preprocessing, feature extraction using CNN models, and hyperparameter optimization.
+Clinical Implications: Provided a reliable tool for clinicians to differentiate between MS and NMO and identify disease activity states, potentially improving diagnosis and treatment strategies.
